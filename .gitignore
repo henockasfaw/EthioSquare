@@ -1,1 +1,3 @@
-/EthioSquare/*.suo
+*.suo
+Api/Bin/*
+Api/Obj/*
